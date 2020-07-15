@@ -2,6 +2,7 @@
 
 ![HitCount](http://hits.dwyl.com/anishLearnsToCode/python-workshop-4.svg)
 ![HitCount](http://hits.dwyl.com/anishLearnsToCode/python-workshop-4.svg)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/anishLearnsToCode/python-workshop-4)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 [![hackerrank-python](https://img.shields.io/badge/hackerrank-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python)
