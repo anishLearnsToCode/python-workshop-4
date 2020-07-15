@@ -50,32 +50,12 @@ You can stalk your instructor on [LinkedIn](https://www.linkedin.com/in/anishsac
 
 ## [Day 1](https://github.com/anishLearnsToCode/python-workshop-4/tree/master/day-1)
 ### Topics Covered
-- [Hello World!](day-1/hello-world.py)
-- [Input](day-1/input.py)
-- [Data Types](day-1/variables.py)
-- [Integer Input](day-1/int-input.py)
-- [Comments & Variables](day-1/comments.py)
-- [Arithmetic Expressions](day-1/arithmetic-operations.py)
-- [logical Expressions](day-1/logical-operators.py)
-- [If-Else Statements](day-1/if-else-conditions.py)
-- [Finding of Number is even or odd](day-1/even-odd.py)
-- [Largest of 3 Numbers](day-1/largest-3-numbers.py)
-- [While Loop](day-1/while-loop.py)
-- [Range](day-1/range-type.py)
-- [For Loops](day-1/for-loops.py)
-- [Infinite Loop](day-1/infinite-loop.py)
-- [Loop Control Statements](day-1/loop-control-statements.py)
-- [Nested Loops](day-1/nested-loop.py)
-- [Sum of N Natural Numbers](day-1/sum-of-n-numbers.py)
-- [Sum of squares of first N Natural Numbers](day-1/sum-of-squares.py)
-- [Factorial](day-1/factorial.py)
-- [Lists](day-1/lists.py)
 
 ### Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
 - [HackerRank python Domain](https://www.hackerrank.com/domains/python)
 - [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
-- [Projects Created on Python](python.org/about/success)
+- [Projects Created on Python](http://www.python.org/about/success)
 - [C++ vs. Java vs. Python Language Speed Test (Informal)](https://www.youtube.com/watch?v=C8jeRug6agk)
 
 ### Sample Questions
@@ -99,17 +79,6 @@ You can stalk your instructor on [LinkedIn](https://www.linkedin.com/in/anishsac
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-4/tree/master/day-2)
 
 ### Topics Covered
-- [Ternary Statement](day-2/ternary-statement.py)
-- [List Comprehension](day-2/generator-function.py)
-- [Functions](day-2/functions.py)
-- [Inbuilt Functions](day-2/inbuilt-functions.py)
-- [String Functions](day-2/string-functions.py)
-- [List Input](day-2/list-input.py)
-- [ASCII & UNICODE](day-2/ascii.py)
-- [Tuples](day-2/tuples.py)
-- [Dictionary](day-2/dictionary.py)
-- [Complex Key Value pairs in Dictionary](day-2/dictionary-multiple.py)
-- [Packages](day-2/packages.py)
 
 ### Further Reading
 - [Math Module](https://docs.python.org/3/library/math.html)
