@@ -1,6 +1,7 @@
 # Python 🐍 Basics Workshop - What After College
 
 ![HitCount](http://hits.dwyl.com/anishLearnsToCode/python-workshop-4.svg)
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/python-workshop-4.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 [![hackerrank-python](https://img.shields.io/badge/hackerrank-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python)
