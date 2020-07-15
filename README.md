@@ -8,6 +8,13 @@
 [![hackerrank-algo](https://img.shields.io/badge/hackerrank-algorithms-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-algorithms)
 [![hackerrank-interview-prep](https://img.shields.io/badge/hackerrank-Interview%20Preparation%20Kit-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
 
+<details>
+    <summary><b>Workshop Timings</b></summary>
+    Workshop Dates: 18th - 19th July 2020 <br>
+    Workshop Timings: 9:00 AM - 2:00 PM (9 - 14) <br>
+    Break Timings: 11:00 AM - 12:00 AM (11 - 12)
+</details>
+
 ## Index
 - [Introduction](#introduction)
 - [Getting Started with Python](#getting-started-with-python)
@@ -20,12 +27,6 @@
 Solutions to all sample problems on HackerRank under the 
 [Python domain](https://www.hackerrank.com/domains/python) can be 
 looked up [here](https://github.com/anishLearnsToCode/hackerrank-python).
-
-<details>
-    <summary><b>Workshop Timings</b></summary>
-    Workshop Timings: 9:00 AM - 2:00 PM (9 - 14) <br>
-    Break Timings: 11:00 AM - 12:00 AM (11 - 12)
-</details>
 
 Programming is a very hands process and is both an art as well as a science. We are
 engineers and are required to create efficient solutions but at the same time our programs should be 
