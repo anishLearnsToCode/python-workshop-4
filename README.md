@@ -15,6 +15,8 @@
     Break Timings: 11:00 AM - 12:00 AM (11 - 12)
 </details>
 
+[Workshop Link (Zoom) 📺](https://us02web.zoom.us/meeting/attendee/tZIpcOiorDsqH92e_Sg0tgP4fR6v1sqnifrl/ics?user_id=e0FjTReyRMGkoqxN9v8_SQ)
+
 ## Index
 - [Introduction](#introduction)
 - [Getting Started with Python](#getting-started-with-python)
