@@ -181,10 +181,8 @@ python hello_world.py
 
 ## Hangman Game (Capstone Project)
 The code can be viewed [here](https://github.com/anishLearnsToCode/hangman-cli-game).
-The main (interesting) concepts being used by this code are:
-- [Functions](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/functions.py)
-- [Modules](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/modules.py)
-- [Generators](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/generators.py)
+Another game 👾 built on Python (this one with actual GUI) can be viewed 
+[here](https://github.com/anishLearnsToCode/alien-invasion) 🎮🕹. 
 
 ## Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
