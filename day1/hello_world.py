@@ -1,0 +1,5 @@
+print('hello world this is my first program !', end='****')
+print('i am batman')
+print('this is so amazing !!!', end='______')
+print('hello !!!!', end='\n')
+print('this is in next line ')
