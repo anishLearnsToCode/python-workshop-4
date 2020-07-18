@@ -123,6 +123,28 @@ python hello_world.py
 
 ## [Day 1](https://github.com/anishLearnsToCode/python-workshop-4/tree/master/day1)
 ### Topics Covered
+- [Hello World](day1/hello_world.py)
+- [Comments](day1/comments.py)
+- [Strings](day1/strings.py)
+- [Variables](day1/variables.py)
+- [User Input](day1/user_input.py)
+- [Taking Integer Input](day1/int-input.py)
+- [Arithmetic Operations](day1/arithmetic_operators.py)
+- [Arithmetic Operator short Hand](day1/operator_short_hand.py)
+- [logical Operators](day1/logical_operations.py)
+- [If Else Statements](day1/if_else_statements.py)
+- [Ternary Operator](day1/ternary_operator.py)
+- [Finding if Number is even or odd](day1/even_odd.py)
+- [Hackerrank If Else Question](day1/python_if_else.py)
+- [While Loop](day1/while.py)
+- [Range Object](day1/range_object.py)
+- [For Loop](day1/for_loop.py)
+- [Sum N Natural Numbers](day1/sum_n_natural_numbers.py)
+- [Factorial](day1/factorial.py)
+- [Loop Control Statements](day1/loop_control_statements.py)
+- [Functions](day1/functions.py)
+- [Factorial Function](day1/factorial_function.py)
+- [Lists](day1/lists.py)
 
 ### Further Reading
 - [w3 School Python](https://www.w3schools.com/python/)
