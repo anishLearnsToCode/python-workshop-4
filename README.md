@@ -256,3 +256,20 @@ course on [Coursera](https://www.coursera.org) by Andrew Ng.
 
 This may be old but it's essence and relevance haven't dwindled at all. Solutions to all problems
 with well written code can be found [here](https://github.com/anishLearnsToCode/ml-stanford).
+
+### Learning Git ![git-scm](https://img.icons8.com/color/25/000000/git.png)
+This is not very correlated to Java, but Git is a technology being used by all organizations big and small 
+that wish to maintain their code over teams of varied sizes and manage projects. Even this repository which you 
+are currently reading in is being maintained by [git]() &
+has been deployed on [github]().
+
+Being proficeint with git and version control will help you manage all your projects, be in any language Java,
+Python, C++ and even non-programming projects very efficiently and you will be able to easily maintain project 
+state over all your devices.
+
+There is an excellent [Version Control with Git](https://www.coursera.org/learn/version-control-with-git) 
+course on Coursera by Atlassian or you can even try this 
+[Git Introductory 30min Video](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+on YouTube to learn the basics of git.
+
+So, what are you waiting for git started 😁 (bad pun!)
