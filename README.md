@@ -23,6 +23,7 @@
 - [Day 1](#day-1)
 - [Day 2](#day-2)
 - [Capstone Project](#hangman-game-capstone-project)
+- [Further Reading](#further-reading)
 - [Future Path??](#future-scope-and-path)
 
 ## Introduction
@@ -146,13 +147,6 @@ python hello_world.py
 - [Factorial Function](day1/factorial_function.py)
 - [Lists](day1/lists.py)
 
-### Further Reading
-- [w3 School Python](https://www.w3schools.com/python/)
-- [HackerRank python Domain](https://www.hackerrank.com/domains/python)
-- [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
-- [Projects Created on Python](http://www.python.org/about/success)
-- [C++ vs. Java vs. Python Language Speed Test (Informal)](https://www.youtube.com/watch?v=C8jeRug6agk)
-
 ### Sample Questions
 | Question | Solution Link |
 |:---------|:--------:|
@@ -175,13 +169,6 @@ python hello_world.py
 
 ### Topics Covered
 
-### Further Reading
-- [Math Module](https://docs.python.org/3/library/math.html)
-- [Stack Overflow Survey 2020](https://insights.stackoverflow.com/survey/2020)
-- [Python Example Projects and Project Based Tutorials](https://realpython.com/tutorials/projects/)
-- [Django: Web Development on Python](https://www.djangoproject.com/)
-- [Falcon: Minimalist Web Framework](https://falcon.readthedocs.io/en/stable/)
-
 ### Sample Questions
 | Question | Solution Link |
 |:---------|:--------:|
@@ -198,6 +185,18 @@ The main (interesting) concepts being used by this code are:
 - [Functions](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-1/functions.py)
 - [Modules](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/modules.py)
 - [Generators](https://github.com/anishLearnsToCode/python-workshop-1/blob/master/day-2/generators.py)
+
+## Further Reading
+- [w3 School Python](https://www.w3schools.com/python/)
+- [HackerRank python Domain](https://www.hackerrank.com/domains/python)
+- [Why is it called Python?](http://www.python.org/doc/faq/general/#why-is-it-called-python)
+- [Projects Created on Python](http://www.python.org/about/success)
+- [C++ vs. Java vs. Python Language Speed Test (Informal)](https://www.youtube.com/watch?v=C8jeRug6agk)
+- [Math Module](https://docs.python.org/3/library/math.html)
+- [Stack Overflow Survey 2020](https://insights.stackoverflow.com/survey/2020)
+- [Python Example Projects and Project Based Tutorials](https://realpython.com/tutorials/projects/)
+- [Django: Web Development on Python](https://www.djangoproject.com/)
+- [Falcon: Minimalist Web Framework](https://falcon.readthedocs.io/en/stable/)
 
 ## Future Scope and Path
 Now that you have learnt the basics of Python and also built an amazing project that showcases
