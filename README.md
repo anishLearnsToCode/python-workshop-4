@@ -168,6 +168,23 @@ python hello_world.py
 ## [Day 2](https://github.com/anishLearnsToCode/python-workshop-4/tree/master/day2)
 
 ### Topics Covered
+- [Truthy Falsy Values](day2/truthy_falsy_values.py)
+- [List Comprehension](day2/list_comprehension.py)
+- [Odd elements sum](day2/odd_elements_sum.py)
+- [For Loops on Lists](day2/list_for.py)
+- [Taking user input as list](day2/list_input.py)
+- [Map Operator](day2/list_input_map.py)
+- [Capitalize Hackerrank Question](day2/capitalize.py)
+- [Tuples](day2/tuples.py)
+- [Dictionary](day2/dictionary.py)
+- [Finding Percentage Hackerrank Question](day2/finding_percentage.py)
+- [Complex Dictionary Structure](day2/complex_dict.py)
+- [Inbuilt Functions](day2/inbuilt_functions.py)
+- [MiniMax Sum](day2/mini_max_sum.py)
+- [Strings](day2/strings.py)
+- [sWAP cASE](day2/swap_case.py)
+- [Inbuilt Packages](day2/inbuilt_packages.py)
+- [Stock Custom Package](day2/stock.py)
 
 ### Sample Questions
 | Question | Solution Link |
