@@ -1,0 +1,6 @@
+numbers = list(map(int, input().split(' ')))
+sumElements = sum(numbers)
+maxElement = max(numbers)
+minElement = min(numbers)
+print(sumElements - maxElement, end=' ')
+print(sumElements - minElement)

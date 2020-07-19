@@ -8,7 +8,7 @@ numbers = []
 print(type(numbers))
 print(len(numbers))
 
-## adding elements in list
+# adding elements in list
 # append(value) --> adds at last index
 # insert(index, value) --> adds value at particular index
 
@@ -16,3 +16,6 @@ print(len(numbers))
 # pop() --> returns value removed
 # remove(value) --> returns None
 # del keyword --> remove at specific index
+
+# sorting a list
+numbers.sort()
