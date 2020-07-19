@@ -25,6 +25,7 @@
 - [Day 2](#day-2)
 - [Capstone Project](#hangman-game-capstone-project)
 - [Further Reading](#further-reading)
+- [Python Books](#python-books-)
 - [Future Path??](#future-scope-and-path)
 
 ## Introduction
@@ -213,6 +214,12 @@ Another game 👾 built on Python (this one with actual GUI) can be viewed
 - [Python Example Projects and Project Based Tutorials](https://realpython.com/tutorials/projects/)
 - [Django: Web Development on Python](https://www.djangoproject.com/)
 - [Falcon: Minimalist Web Framework](https://falcon.readthedocs.io/en/stable/)
+
+## Python Books 📕
+- [Python Crash Course](https://github.com/anishLearnsToCode/books/blob/master/python/python-crash-course.pdf)
+- [Python in a Nutshell](https://github.com/anishLearnsToCode/books/blob/master/python/python-in-a-nutshell-3e.pdf)
+- [Programming Python](https://github.com/anishLearnsToCode/books/blob/master/python/programming-python-4e.pdf)
+- [Python For Data Analysis](https://github.com/anishLearnsToCode/books/blob/master/python/python-for-data-analysis-2e.pdf)
 
 ## Future Scope and Path
 Now that you have learnt the basics of Python and also built an amazing project that showcases
